@@ -1,3 +1,9 @@
 streamlit
 streamlit-server-state
 streamlit-autorefresh
+fastapi
+uvicorn
+python-socketio
+streamlit-authenticator
+pandas
+pyyaml

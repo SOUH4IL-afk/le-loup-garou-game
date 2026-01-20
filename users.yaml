@@ -1,0 +1,17 @@
+credentials:
+usernames:
+admin:
+email: admin@email.com
+name: Admin
+password: REPLACE_WITH_HASH
+
+
+cookie:
+expiry_days: 7
+key: werewolf_key
+name: werewolf_cookie
+
+
+preauthorized:
+emails:
+- admin@email.com
